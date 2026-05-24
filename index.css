@@ -2,6 +2,10 @@ body{
     background-color: #faf9f7;
 }
 
-.sidebar {
+.sidebar .display-container {
     background-color: #f4f2ef;
+}
+
+.main-display{
+    background-color: #faf9f7;
 }
