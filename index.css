@@ -1,5 +1,5 @@
 body{
-    background-color: #faf9f7;
+    background-color: #ffffff;
 }
 
 .sidebar .display-container {
@@ -16,13 +16,17 @@ body{
 }
 
 .sidebar{
-    width: 28rem;
+    width: 17rem;
     height: 90vh;
-    background-color: black;
+    border-right: 2px solid #e4e1db;
+    border-top: 2px solid #e4e1db;
+    background-color: #ffffff;
 }
 
 .navs{
-    height: 4rem;
+    height: 2.5rem;
     width: 80vw;
-    background-color: black;
+    border-top: 2px solid #e4e1db;
+    border-bottom: 2px solid #e4e1db;;
+    background-color: #ffffff;
 }
